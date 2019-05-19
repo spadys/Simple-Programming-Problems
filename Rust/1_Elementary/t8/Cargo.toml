@@ -1,0 +1,8 @@
+[package]
+name = "t8"
+version = "0.1.0"
+authors = ["Lukas Venhoda <lukas.venhoda@outlook.cz>"]
+edition = "2018"
+
+[dependencies]
+primal = "0.2"
